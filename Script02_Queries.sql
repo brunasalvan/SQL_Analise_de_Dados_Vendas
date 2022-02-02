@@ -93,7 +93,7 @@ GROUP BY CUSTOMER_STATE, CUSTOMER_CITY
 ORDER BY TOTAL_COMPRAS DESC;
 
 
-/* Valor médio por pedido (pensar em promoções) */
+/* Valor médio por pedido */
 
 SELECT ROUND(AVG(PAYMENT_VALUE) * 1, 2) AS MEDIA_VALOR_PEDIDO
 FROM Tb_ACT_OLIST_ORDER_PAYMENTS;
