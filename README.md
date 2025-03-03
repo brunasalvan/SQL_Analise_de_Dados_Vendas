@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# Olist Sales Data Analysis
 
 ## About
 
