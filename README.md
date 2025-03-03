@@ -1,18 +1,16 @@
-# Análise de Dados Vendas
+# Sales Data Analysis
 
+## About
 
+Analysis of the Olist sales dataset using SQL Server to extract insights.
 
-## Sobre
-  
-Análise do conjunto de dados de vendas da Olist utilizando SQL Server em busca de insights.
+Dataset sourced from the Kaggle platform, available [here](https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_geolocation_dataset.csv).
 
-Dataset retirado da plataforma Kaggle disponível [aqui](https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_geolocation_dataset.csv)
-
-## Tecnologia
+## Technology
 
   - SQL Server Management Studio (SSMS)
-  
-## Etapas
-  
-- [x] Carregamento das tabelas no banco de dados
-- [x] Formulação de queries para consulta
+
+## Steps
+
+- [x] Loading tables into the database
+- [x] Formulating queries for analysis
